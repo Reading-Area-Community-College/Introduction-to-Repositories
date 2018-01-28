@@ -1,4 +1,9 @@
 /* CSS Document */
 body{
 	margin: 0px;
+	background-color: aliceblue;
+}
+
+div, object, iframe{
+	max-width: 100%;
 }
